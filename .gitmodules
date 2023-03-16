@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NIPTeR"]
+	path = NIPTeR
+	url = https://github.com/ljohansson/nipter
+	shallow = true
+	registered = true
